@@ -1,4 +1,4 @@
-# 📱 Responsive Landing Page : [Visit Here](https://responsive-design.netlify.app/)
+# 📱 Responsive Landing Page : [Visit Here](https://responsive-khouma.netlify.app/)
 
 This project showcases a responsive landing page using HTML and CSS, focusing on creating layouts that work seamlessly across different devices and screen sizes.
 
